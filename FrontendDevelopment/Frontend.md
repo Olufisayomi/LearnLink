@@ -60,6 +60,13 @@ For advanced learners, focus on performance optimization, state management, test
 - [**Web Performance Optimization**](https://developers.google.com/web/fundamentals/performance/why-performance-matters)
 - [**Testing with Jest and React Testing Library**](https://jestjs.io/docs/tutorial-react)
 
+## Projects/challenge/clones:
+- [**Project clone for beginner**](https://qr-code-project-gules.vercel.app/)
+- [**Project clone for intermediate**](https://interactive-rating-component-pink.vercel.app/)
+- [**challenge/clone for advanced**](https://codewars.com)
+     For application and practice...
+  
+
 ---
 
 ## 🛠 Tools and Resources
